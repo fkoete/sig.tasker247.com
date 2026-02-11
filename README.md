@@ -1,11 +1,11 @@
 
 
 
-#TASKER247
+TASKER247
 Professional Email Signature Template
 Installation & Deployment Guide
 
-##1. Overview
+1. Overview
 This document provides step-by-step instructions for deploying the Tasker247 professional email signature template across Outlook (Desktop & Web) and Gmail.
 
 The signature template has been designed to ensure:
@@ -20,7 +20,7 @@ Standardized contact formatting
 
 Embedded compliance-ready corporate messaging
 
-##2. Package Contents
+2. Package Contents
 Your signature package should contain:
 
 signature.html (Main signature file)
@@ -31,7 +31,7 @@ This README file
 
 ⚠ Important: Do not rename image files unless you update the image paths inside the HTML file accordingly.
 
-##3. Pre-Deployment Checklist
+3. Pre-Deployment Checklist
 Before installation, confirm:
 
 Your name, title, phone number, and email address are correctly populated in the HTML file.
@@ -42,7 +42,7 @@ Images are hosted online OR embedded (recommended for Gmail).
 
 You are using Outlook Desktop (Windows/Mac), Outlook Web, or Gmail Web.
 
-##SECTION A
+SECTION A
 Installing in Microsoft Outlook (Desktop – Windows)
 Step 1: Save the Signature Files
 Extract the signature package.
@@ -86,7 +86,7 @@ Replies/Forwards
 
 Click OK
 
-#$SECTION B
+SECTION B
 Installing in Outlook Web (Office 365)
 Log into Outlook Web.
 
@@ -108,7 +108,7 @@ Automatically include on replies/forwards
 
 Save.
 
-##SECTION C
+SECTION C
 Installing in Gmail (Web)
 Step 1: Prepare the Signature
 Gmail does not accept raw HTML uploads directly. You must:
@@ -143,7 +143,7 @@ Replies/Forwards
 
 Scroll down and click Save Changes.
 
-##SECTION D
+SECTION D
 Image Hosting Best Practice (Recommended)
 For maximum compatibility across email clients:
 
@@ -155,7 +155,7 @@ Avoid linking to local drive images.
 
 Outlook may block external images until trusted by recipient.
 
-##SECTION E
+SECTION E
 Formatting Standards (Non-Negotiable)
 To maintain corporate identity:
 
@@ -171,7 +171,7 @@ Do not adjust brand colors.
 
 Any customizations must be approved by Brand or Executive Office.
 
-##SECTION F
+SECTION F
 Mobile Optimization Notes
 Gmail Mobile App supports basic formatting.
 
@@ -202,7 +202,7 @@ Compress logo to under 100KB.
 
 Resize images to max width 300px.
 
-##SECTION H
+SECTION H
 Governance & Version Control
 Only use the latest distributed template version.
 
